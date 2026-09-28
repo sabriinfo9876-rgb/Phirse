@@ -1,0 +1,6 @@
+{
+  "name": "PHIRSE — Give It Another Life",
+  "description": "A Pakistan-focused C2C second-hand resale marketplace MVP for buying and selling pre-owned electronics, furniture, cameras, gaming gear, and everyday essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
